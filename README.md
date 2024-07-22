@@ -150,7 +150,8 @@
 
 #### 외부데이터 활용
 
-
+![서울집합건물통합정보마당](https://openab.seoul.go.kr/build/info.do?gubun=document)
+![image](https://github.com/user-attachments/assets/403d80b5-4fcc-47bb-82dc-48c121b5e45c)
 
 
 ![서울 열린데이터 광장](https://data.seoul.go.kr/dataList/OA-16094/S/1/datasetView.do)
