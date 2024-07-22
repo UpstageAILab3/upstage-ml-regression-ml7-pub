@@ -31,7 +31,97 @@
 
 ### Directory
 
-- _Insert your directory structure_
+새 볼륨 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 12CC-B2BE입니다.
+F:.
+│  7조.ipynb
+│  apartment_gis.csv
+│  apartment_info.csv
+│  bus_feature.csv
+│  catboost_optuna_predictions.csv
+│  catboost_submission.csv
+│  checkpoint
+│  data.tar
+│  data_with_embeddings.csv
+│  data_with_tsne.csv
+│  embedding.ckpt-1.data-00000-of-00001
+│  embedding.ckpt-1.index
+│  ET_logP.csv
+│  groupby_도로명주소_건축물대장.csv
+│  logs.log
+│  RF_logP.csv
+│  sample_submission.csv
+│  subway_feature.csv
+│  test.csv
+│  train.csv
+│  [ML Advanced] 7조.ipynb
+│  [ML Advanced] 베이스라인코드 해설.ipynb
+│  건축물대장.csv
+│  결측치.csv
+│  계약년월.csv
+│  도로명_건축물.csv
+│  
+├─catboost_info
+│  │  catboost_training.json
+│  │  learn_error.tsv
+│  │  time_left.tsv
+│  │  
+│  ├─learn
+│  │      events.out.tfevents
+│  │      
+│  └─tmp
+
+├─건축물대장
+│      강남구.csv
+│      강동구.csv
+│      강북구.csv
+│      강서구.csv
+│      관악구.csv
+│      광진구.csv
+│      구로구.csv
+│      금천구.csv
+│      노원구.csv
+│      도봉구.csv
+│      동대문구.csv
+│      동작구.csv
+│      마포구.csv
+│      서대문구.csv
+│      서초구.csv
+│      성동구.csv
+│      성북구.csv
+│      송파구.csv
+│      양천구.csv
+│      영등포구.csv
+│      용산구.csv
+│      은평구.csv
+│      종로구.csv
+│      중구.csv
+│      중랑구.csv
+│      
+├─보건위생시설(현황)
+│      Z_UPIS_C_UQ157.dbf
+│      Z_UPIS_C_UQ157.prj
+│      Z_UPIS_C_UQ157.shp
+│      Z_UPIS_C_UQ157.shx
+│      보건위생시설(현황).xlsx
+│      
+└─인허가
+        서울시 공공와이파이 서비스 위치 정보.csv
+        서울시 공원 및 사유지수목 위치정보 (좌표계_ WGS1984).csv
+        서울시 공중화장실 위치정보 (좌표계_ WGS1984).csv
+        서울시 녹지대 위치정보 (좌표계_ WGS1984).csv
+        서울시 도시계획 생활권 중심지 정보 (좌표계_ GRS80).csv
+        서울시 미용업 인허가 정보.csv
+        서울시 병원 인허가 정보.csv
+        서울시 병의원 위치 정보.csv
+        서울시 식품판매업(기타) 인허가 정보(중부원점TM(EPSG2097)).csv
+        서울시 유흥주점영업 인허가 정보.csv
+        서울시 의원 인허가 정보.csv
+        서울시 일반음식점 인허가 정보.csv
+        서울시 일반음식점 인허가 정보2.csv
+        학원교습소정보_2023년01월31일기준.csv
+        
+
 
 ## 3. Data descrption
 
