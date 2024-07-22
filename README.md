@@ -30,9 +30,6 @@
 ## 2. Components
 
 ### Directory
-
-새 볼륨 볼륨에 대한 폴더 경로의 목록입니다.
-볼륨 일련 번호는 12CC-B2BE입니다.
 F:.
 │  7조.ipynb
 │  apartment_gis.csv
@@ -70,7 +67,7 @@ F:.
 │  │      events.out.tfevents
 │  │      
 │  └─tmp
-
+│
 ├─건축물대장
 │      강남구.csv
 │      강동구.csv
@@ -120,8 +117,6 @@ F:.
         서울시 일반음식점 인허가 정보.csv
         서울시 일반음식점 인허가 정보2.csv
         학원교습소정보_2023년01월31일기준.csv
-        
-
 
 ## 3. Data descrption
 
