@@ -235,15 +235,16 @@ F:.
 
 #### 외부데이터 활용
 
-![서울집합건물통합정보마당](https://openab.seoul.go.kr/build/info.do?gubun=document)
+[서울집합건물통합정보마당](https://openab.seoul.go.kr/build/info.do?gubun=document)
 ![image](https://github.com/user-attachments/assets/403d80b5-4fcc-47bb-82dc-48c121b5e45c)
 
 
-![서울 열린데이터 광장](https://data.seoul.go.kr/dataList/OA-16094/S/1/datasetView.do)
+[서울 열린데이터 광장](https://data.seoul.go.kr/dataList/OA-16094/S/1/datasetView.do)
+
 ![image](https://github.com/user-attachments/assets/24d0de91-33d5-4c6b-89f9-6002ec8996eb)
 
 
-![한국은행경제통계시스템](https://ecos.bok.or.kr/#/SearchStat)
+[한국은행경제통계시스템](https://ecos.bok.or.kr/#/SearchStat)
 ![image](https://github.com/user-attachments/assets/4aa9f74d-0e7b-49fc-a96e-c729423c373b)
 
 을 통해 외부데이터를 끌어와서 도로명주소와 계약년월 데이터를 기반으로 결합
